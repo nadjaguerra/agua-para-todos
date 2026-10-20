@@ -1,0 +1,186 @@
+﻿id,name,district,rmr,available,year,atendimento,perdas,urbano,rural,atendimentoStatus,perdasStatus,population,provider,censusYear,households2022,householdsWithoutNetwork2022,semRede2022
+2600054,Abreu e Lima,False,True,True,2024,71.14,47.73,72.74,0.0,,,103945,Companhia Pernambucana de Saneamento,2022,34672,4424,12.75957544993078
+2600104,Afogados da Ingazeira,False,False,True,2024,82.27,31.1,100.0,11.86,,,42407,Companhia Pernambucana de Saneamento,2022,14825,2339,15.777403035413153
+2600203,Afrânio,False,False,True,2024,44.81,6.56,100.0,18.57,,,19349,Companhia Pernambucana de Saneamento,2022,5813,2972,51.126784792706005
+2600302,Agrestina,False,False,True,2024,85.23,17.19,100.0,29.15,,,24615,Companhia Pernambucana de Saneamento,2022,8551,1109,12.969243363349316
+2600401,Água Preta,False,False,True,2024,65.23,81.93,100.0,0.0,,,27221,Serviço Autônomo de Água e Esgoto,2022,8781,3177,36.18038947728049
+2600500,Águas Belas,False,False,True,2024,42.28,39.96,65.06,0.1,,,43713,Companhia Pernambucana de Saneamento,2022,13433,6791,50.554604332613714
+2600609,Alagoinha,False,False,True,2024,50.13,28.12,77.02,8.86,,,14355,Companhia Pernambucana de Saneamento,2022,4882,2614,53.54362965997542
+2600708,Aliança,False,False,True,2024,75.67,36.83,89.89,17.08,,,37372,Companhia Pernambucana de Saneamento,2022,12258,2019,16.47087616250612
+2600807,Altinho,False,False,True,2024,71.48,15.61,100.0,14.34,,,21185,Companhia Pernambucana de Saneamento,2022,7896,1922,24.34143870314083
+2600906,Amaraji,False,False,True,2024,77.2,45.64,94.93,0.0,,,18471,Serviço Autônomo de Água e Esgoto,2022,6408,1410,22.00374531835206
+2601003,Angelim,False,False,True,2024,69.51,4.26,100.0,14.9,,,10580,Companhia Pernambucana de Saneamento,2022,3476,917,26.380897583429228
+2601052,Araçoiaba,False,True,True,2024,24.9,47.7,27.1,0.0,,,19936,Companhia Pernambucana de Saneamento,2022,6292,3387,53.83026064844247
+2601102,Araripina,False,False,True,2024,59.92,19.89,97.89,3.45,,,90104,Companhia Pernambucana de Saneamento,2022,27498,13056,47.47981671394283
+2601201,Arcoverde,False,False,True,2024,89.27,56.24,95.25,4.56,,,82003,Companhia Pernambucana de Saneamento,2022,27693,3193,11.529989528039577
+2601300,Barra de Guabiraba,False,False,True,2024,88.47,23.75,100.0,2.41,,,12616,Companhia Pernambucana de Saneamento,2022,4052,579,14.28923988153998
+2601409,Barreiros,False,False,True,2024,75.18,49.3,85.8,0.57,,,42056,Companhia Pernambucana de Saneamento,2022,13356,2393,17.917041030248576
+2601508,Belém de Maria,False,False,True,2024,71.61,19.58,100.0,0.13,,,10829,Companhia Pernambucana de Saneamento,2022,3410,1157,33.929618768328446
+2601607,Belém do São Francisco,False,False,True,2024,66.32,47.67,100.0,0.6,,,18713,Companhia Pernambucana de Saneamento,2022,5621,1483,26.38320583526063
+2601706,Belo Jardim,False,False,True,2024,90.46,18.66,100.0,36.01,,,83647,Companhia Pernambucana de Saneamento,2022,29197,3053,10.456553755522828
+2601805,Betânia,False,False,True,2024,40.43,31.48,100.0,6.25,,,11981,Companhia Pernambucana de Saneamento,2022,3774,1757,46.55537890832009
+2601904,Bezerros,False,False,True,2024,81.34,55.32,91.68,18.39,,,64809,Companhia Pernambucana de Saneamento,2022,23798,4491,18.871333725523154
+2602001,Bodocó,False,False,True,2024,44.93,39.89,99.68,3.79,,,36129,Companhia Pernambucana de Saneamento,2022,11130,6094,54.75292003593891
+2602100,Bom Conselho,False,False,True,2024,65.49,19.96,95.18,0.12,,,46192,Companhia Pernambucana de Saneamento,2022,15188,5434,35.77824598367132
+2602209,Bom Jardim,False,False,True,2024,57.8,52.52,90.15,28.94,,,39278,Companhia Pernambucana de Saneamento,2022,13250,5395,40.716981132075475
+2602308,Bonito,False,False,True,2024,76.53,35.75,100.0,1.98,,,39163,Companhia Pernambucana de Saneamento,2022,13257,2807,21.17371954439164
+2602407,Brejão,False,False,True,2024,40.48,22.06,98.78,0.0,,,9399,Companhia Pernambucana de Saneamento,2022,3049,783,25.680551000327977
+2602506,Brejinho,False,False,True,2024,56.33,4.95,100.0,11.11,,,8010,Companhia Pernambucana de Saneamento,2022,2882,1116,38.72310895211658
+2602605,Brejo da Madre de Deus,False,False,True,2024,48.62,40.05,59.76,4.64,,,51107,Companhia Pernambucana de Saneamento,2022,17173,10219,59.50620159552786
+2602704,Buenos Aires,False,False,True,2024,68.54,58.45,95.01,0.38,,,13254,Companhia Pernambucana de Saneamento,2022,4424,960,21.699819168173597
+2602803,Buíque,False,False,True,2024,31.66,45.12,66.16,5.74,,,54425,Companhia Pernambucana de Saneamento,2022,17119,10488,61.26526082130965
+2602902,Cabo de Santo Agostinho,False,True,True,2024,73.91,66.68,78.49,4.41,,,216969,Companhia Pernambucana de Saneamento,2022,71735,11936,16.639018610162402
+2603009,Cabrobó,False,False,True,2024,74.32,45.96,100.0,24.22,,,31746,Companhia Pernambucana de Saneamento,2022,9997,884,8.842652795838752
+2603108,Cachoeirinha,False,False,True,2024,85.81,16.29,100.0,13.51,,,20612,Companhia Pernambucana de Saneamento,2022,7317,1332,18.204182041820417
+2603207,Caetés,False,False,True,2024,27.66,4.66,86.53,1.93,,,30441,Companhia Pernambucana de Saneamento,2022,9272,7030,75.81967213114754
+2603306,Calçado,False,False,True,2024,33.53,5.62,95.51,1.76,,,11445,Companhia Pernambucana de Saneamento,2022,3765,2567,68.18061088977424
+2603405,Calumbi,False,False,True,2024,43.54,32.41,100.0,5.34,,,5367,Companhia Pernambucana de Saneamento,2022,1795,572,31.866295264623954
+2603454,Camaragibe,False,True,True,2024,69.53,71.9,69.53,,,,155771,Companhia Pernambucana de Saneamento,2022,53357,13297,24.920816387727946
+2603504,Camocim de São Félix,False,False,True,2024,75.98,33.64,87.98,8.44,,,17991,Companhia Pernambucana de Saneamento,2022,6305,1255,19.904837430610627
+2603603,Camutanga,False,False,True,2024,84.51,8.16,98.74,0.0,,,7972,Companhia Pernambucana de Saneamento,2022,2555,599,23.444227005870843
+2603702,Canhotinho,False,False,True,2024,58.31,5.56,85.27,1.99,,,25090,Companhia Pernambucana de Saneamento,2022,7838,2160,27.558050523092625
+2603801,Capoeiras,False,False,True,2024,37.43,52.6,100.0,1.12,,,18890,Companhia Pernambucana de Saneamento,2022,6031,3747,62.129000165809984
+2603900,Carnaíba,False,False,True,2024,53.4,30.27,100.0,10.89,,,19513,Companhia Pernambucana de Saneamento,2022,6798,2078,30.567814062959695
+2603926,Carnaubeira da Penha,False,False,True,2024,16.97,17.65,100.0,0.0,,,12682,Prefeitura Municipal de Carnaubeira Da Penha,2022,3410,2401,70.41055718475073
+2604007,Carpina,False,False,True,2024,85.97,35.77,90.1,8.21,,,83205,Companhia Pernambucana de Saneamento,2022,27652,4489,16.233907131491392
+2604106,Caruaru,False,False,True,2024,93.66,35.55,99.29,27.25,,,402290,Companhia Pernambucana de Saneamento,2022,138486,13833,9.988735323426194
+2604155,Casinhas,False,False,True,2024,29.52,41.19,73.98,20.06,,,13489,Companhia Pernambucana de Saneamento,2022,4210,3022,71.78147268408551
+2604205,Catende,False,False,True,2024,79.63,10.7,91.86,34.96,,,33279,Serviço Autônomo de Água e Esgoto,2022,10858,1766,16.264505433781544
+2604304,Cedro,False,False,True,2024,65.1,30.5,100.0,1.99,,,10845,Companhia Pernambucana de Saneamento,2022,3403,733,21.539817807816632
+2604403,Chã de Alegria,False,False,True,2024,60.41,37.68,73.72,0.0,,,13461,Companhia Pernambucana de Saneamento,2022,4384,1586,36.17700729927007
+2604502,Chã Grande,False,False,True,2024,59.48,22.72,95.52,1.92,,,21224,Companhia Pernambucana de Saneamento,2022,7287,3072,42.15726636475916
+2604601,Condado,False,False,True,2024,45.54,23.88,49.46,0.0,,,25383,Companhia Pernambucana de Saneamento,2022,8301,3704,44.621129984339234
+2604700,Correntes,False,False,True,2024,65.2,42.53,100.0,11.9,,,17660,Companhia Pernambucana de Saneamento,2022,5159,1537,29.792595464237255
+2604809,Cortês,False,False,True,2024,96.08,10.22,98.48,87.45,,,10512,Prefeitura Municipal de Cortês,2022,3611,591,16.366657435613405
+2604908,Cumaru,False,False,True,2024,41.74,58.73,73.7,11.16,,,16252,Companhia Pernambucana de Saneamento,2022,5675,3307,58.27312775330397
+2605004,Cupira,False,False,True,2024,94.66,16.13,100.0,5.81,,,24301,Companhia Pernambucana de Saneamento,2022,8469,417,4.923839886645412
+2605103,Custódia,False,False,True,2024,54.91,54.87,80.91,1.4,,,39403,Companhia Pernambucana de Saneamento,2022,13447,5242,38.98267271510374
+2605152,Dormentes,False,False,True,2024,41.03,25.36,87.86,2.04,,,17749,Companhia Pernambucana de Saneamento,2022,5812,3480,59.87611837577426
+2605202,Escada,False,False,True,2024,74.09,51.33,84.01,0.41,,,62252,Companhia Pernambucana de Saneamento,2022,21041,3978,18.905945534908035
+2605301,Exu,False,False,True,2024,49.27,24.82,97.65,2.48,,,33436,Companhia Pernambucana de Saneamento,2022,10157,5705,56.16815988973122
+2605400,Feira Nova,False,False,True,2024,83.84,30.4,100.0,13.96,,,22169,Companhia Pernambucana de Saneamento,2022,7693,1882,24.463798258156764
+2605459,Fernando de Noronha,True,False,True,2024,89.54,18.15,89.85,77.65,,,3316,Companhia Pernambucana de Saneamento,2022,717,30,4.184100418410042
+2605509,Ferreiros,False,False,True,2024,61.09,34.57,68.89,2.22,,,15794,Companhia Pernambucana de Saneamento,2022,4937,993,20.113429208021067
+2605608,Flores,False,False,True,2024,46.77,51.87,100.0,2.63,,,20835,Companhia Pernambucana de Saneamento,2022,7520,3424,45.53191489361702
+2605707,Floresta,False,False,True,2024,73.7,39.5,100.0,1.54,,,31627,Companhia Pernambucana de Saneamento,2022,9418,2403,25.514971331492887
+2605806,Frei Miguelinho,False,False,True,2024,43.16,26.09,100.0,17.47,,,14070,Companhia Pernambucana de Saneamento,2022,5143,3643,70.834143496014
+2605905,Gameleira,False,False,False,2024,,,,,Localidade ausente desta base SINISA,Localidade ausente desta base SINISA,,,2022,6189,2022,32.67086766844401
+2606002,Garanhuns,False,False,True,2024,92.0,37.98,100.0,11.84,,,151064,Companhia Pernambucana de Saneamento,2022,49029,5863,11.958228803361276
+2606101,Glória do Goitá,False,False,True,2024,60.66,10.5,85.46,0.43,,,30370,Companhia Pernambucana de Saneamento,2022,10182,4172,40.9742683166372
+2606200,Goiana,False,False,True,2024,54.87,47.34,58.25,0.92,,,85160,Companhia Pernambucana de Saneamento,2022,27962,13058,46.699091624347325
+2606309,Granito,False,False,True,2024,54.97,40.81,94.84,5.94,,,7206,Companhia Pernambucana de Saneamento,2022,2257,1006,44.57244129375277
+2606408,Gravatá,False,False,True,2024,88.73,37.23,100.0,21.3,,,91887,Companhia Pernambucana de Saneamento,2022,32074,4948,15.426825466109621
+2606507,Iati,False,False,False,2024,,,,,Localidade ausente desta base SINISA,Localidade ausente desta base SINISA,,,2022,5674,2260,39.830807190694394
+2606606,Ibimirim,False,False,True,2024,53.98,16.22,89.15,9.34,,,28760,Companhia Pernambucana de Saneamento,2022,8861,2668,30.10946845728473
+2606705,Ibirajuba,False,False,True,2024,59.76,22.57,100.0,25.6,,,7344,Companhia Pernambucana de Saneamento,2022,2641,1122,42.483907610753505
+2606804,Igarassu,False,True,True,2024,61.88,51.43,64.45,4.84,,,122312,Companhia Pernambucana de Saneamento,2022,40513,10474,25.85342976328586
+2606903,Iguaracy,False,False,True,2024,54.16,22.19,100.0,1.98,,,11366,Companhia Pernambucana de Saneamento,2022,4054,1831,45.1652688702516
+2607000,Inajá,False,False,False,2024,,,,,Localidade ausente desta base SINISA,Localidade ausente desta base SINISA,,,2022,7310,3042,41.61422708618331
+2607109,Ingazeira,False,False,True,2024,54.81,14.88,100.0,4.64,,,4959,Companhia Pernambucana de Saneamento,2022,1692,769,45.449172576832154
+2607208,Ipojuca,False,True,True,2024,63.58,16.75,74.13,0.45,,,105638,Companhia Pernambucana de Saneamento,2022,33191,12136,36.56412883010454
+2607307,Ipubi,False,False,True,2024,45.8,5.63,70.33,0.09,,,30603,Companhia Pernambucana de Saneamento,2022,9330,5837,62.561629153269024
+2607406,Itacuruba,False,False,True,2024,81.54,21.02,100.0,30.51,,,4490,Companhia Pernambucana de Saneamento,2022,1344,275,20.461309523809526
+2607505,Itaíba,False,False,True,2024,40.53,25.18,100.0,9.74,,,33691,Companhia Pernambucana de Saneamento,2022,10727,5268,49.109723128554116
+2607604,Ilha de Itamaracá,False,True,True,2024,85.94,50.17,100.0,0.08,,,25529,Companhia Pernambucana de Saneamento,2022,7778,2068,26.587811776806376
+2607653,Itambé,False,False,False,2024,,,,,Localidade ausente desta base SINISA,Localidade ausente desta base SINISA,,,2022,11542,2393,20.732975220932246
+2607703,Itapetim,False,False,True,2024,64.64,11.69,100.0,5.04,,,14232,Companhia Pernambucana de Saneamento,2022,5489,1623,29.568227363818547
+2607752,Itapissuma,False,True,True,2024,45.8,59.49,46.46,0.0,,,29463,Companhia Pernambucana de Saneamento,2022,8221,1377,16.7497871305194
+2607802,Itaquitinga,False,False,True,2024,54.01,46.19,66.75,0.18,,,17109,Companhia Pernambucana de Saneamento,2022,5143,1178,22.904919307797005
+2607901,Jaboatão dos Guararapes,False,True,True,2024,68.43,47.97,68.85,10.61,,,683285,Companhia Pernambucana de Saneamento,2022,235151,45312,19.269320564233194
+2607950,Jaqueira,False,False,False,2024,,,,,Localidade ausente desta base SINISA,Localidade ausente desta base SINISA,,,2022,3262,1352,41.44696505211527
+2608008,Jataúba,False,False,True,2024,24.12,45.99,37.64,0.0,,,16323,Companhia Pernambucana de Saneamento,2022,5766,4391,76.15331252167881
+2608057,Jatobá,False,False,True,2024,68.78,63.36,100.0,22.56,,,14463,Companhia Pernambucana de Saneamento,2022,4687,1140,24.32259441007041
+2608107,João Alfredo,False,False,True,2024,64.07,68.11,97.38,16.48,,,28903,Companhia Pernambucana de Saneamento,2022,10271,4321,42.069905559341834
+2608206,Joaquim Nabuco,False,False,True,2024,74.58,61.05,92.52,0.94,,,13506,Companhia Pernambucana de Saneamento,2022,4378,1365,31.178620374600275
+2608255,Jucati,False,False,True,2024,43.39,13.45,82.65,10.51,,,11975,Companhia Pernambucana de Saneamento,2022,3812,2603,68.28436516264428
+2608305,Jupi,False,False,True,2024,12.62,54.69,19.3,0.0,,,15943,Companhia Pernambucana de Saneamento,2022,5313,4820,90.72087332956899
+2608404,Jurema,False,False,True,2024,81.34,5.68,100.0,8.53,,,14027,Companhia Pernambucana de Saneamento,2022,4791,997,20.809851805468586
+2608453,Lagoa do Carro,False,False,True,2024,52.78,37.37,65.4,12.56,,,18708,Companhia Pernambucana de Saneamento,2022,6337,2570,40.55546788701278
+2608503,Lagoa de Itaenga,False,False,True,2024,73.07,24.45,87.69,0.18,,,19915,Companhia Pernambucana de Saneamento,2022,6707,3437,51.244967943939166
+2608602,Lagoa do Ouro,False,False,True,2024,54.63,17.74,95.48,0.23,,,12364,Companhia Pernambucana de Saneamento,2022,4152,435,10.476878612716764
+2608701,Lagoa dos Gatos,False,False,True,2024,69.52,52.6,99.81,9.06,,,14386,Companhia Pernambucana de Saneamento,2022,4967,1582,31.850211395208376
+2608750,Lagoa Grande,False,False,True,2024,59.19,59.59,83.63,0.61,,,24952,Companhia Pernambucana de Saneamento,2022,8055,1817,22.557417752948478
+2608800,Lajedo,False,False,True,2024,87.73,33.63,100.0,36.82,,,41786,Companhia Pernambucana de Saneamento,2022,13932,3439,24.684180304335342
+2608909,Limoeiro,False,False,True,2024,73.83,20.24,85.83,22.75,,,59125,Companhia Pernambucana de Saneamento,2022,20188,5995,29.69585892609471
+2609006,Macaparana,False,False,True,2024,68.6,32.57,89.91,1.38,,,24624,Companhia Pernambucana de Saneamento,2022,7957,1421,17.858489380419755
+2609105,Machados,False,False,True,2024,73.39,50.4,93.9,10.43,,,11471,Companhia Pernambucana de Saneamento,2022,3841,827,21.53085134079667
+2609154,Manari,False,False,True,2024,30.86,41.56,88.8,13.5,,,26773,Companhia Pernambucana de Saneamento,2022,6694,3971,59.321780699133555
+2609204,Maraial,False,False,True,2024,44.19,46.85,59.78,0.0,,,9432,Companhia Pernambucana de Saneamento,2022,3094,1039,33.58112475759535
+2609303,Mirandiba,False,False,True,2024,72.11,4.72,100.0,42.63,,,14599,Companhia Pernambucana de Saneamento,2022,4467,1561,34.94515334676517
+2609402,Moreno,False,True,True,2024,72.73,32.52,80.34,0.6,,,57647,Companhia Pernambucana de Saneamento,2022,19595,4409,22.500637917836183
+2609501,Nazaré da Mata,False,False,True,2024,81.86,32.13,88.62,0.61,,,32153,Companhia Pernambucana de Saneamento,2022,10664,1763,16.532258064516128
+2609600,Olinda,False,True,True,2024,85.87,43.78,85.87,,,,365402,Companhia Pernambucana de Saneamento,2022,127261,16974,13.33794328191669
+2609709,Orobó,False,False,True,2024,37.04,49.81,72.13,7.91,,,22438,Companhia Pernambucana de Saneamento,2022,7391,4392,59.42362332566635
+2609808,Orocó,False,False,True,2024,37.84,46.42,100.0,0.03,,,14100,Companhia Pernambucana de Saneamento,2022,4286,350,8.166122258516099
+2609907,Ouricuri,False,False,True,2024,60.66,16.62,100.0,18.3,,,68329,Companhia Pernambucana de Saneamento,2022,21487,7227,33.6342905012333
+2610004,Palmares,False,False,True,2024,83.57,61.63,100.0,23.77,,,56615,Serviço Autônomo de Águas e Esgotos,2022,18422,3480,18.89045706220823
+2610103,Palmeirina,False,False,True,2024,65.05,49.39,100.0,0.6,,,7154,Companhia Pernambucana de Saneamento,2022,2476,736,29.72536348949919
+2610202,Panelas,False,False,True,2024,63.38,17.5,100.0,2.99,,,23449,Companhia Pernambucana de Saneamento,2022,8199,2807,34.23588242468594
+2610301,Paranatama,False,False,True,2024,9.62,28.94,46.14,0.03,,,12712,Companhia Pernambucana de Saneamento,2022,4207,3065,72.85476586641312
+2610400,Parnamirim,False,False,True,2024,54.93,31.17,100.0,21.16,,,19028,Companhia Pernambucana de Saneamento,2022,6086,1780,29.24745317121262
+2610509,Passira,False,False,True,2024,52.92,26.22,96.35,6.27,,,29719,Companhia Pernambucana de Saneamento,2022,10376,4247,40.930994602929836
+2610608,Paudalho,False,False,True,2024,59.52,18.81,69.47,11.19,,,59638,Companhia Pernambucana de Saneamento,2022,18912,6308,33.354483925549914
+2610707,Paulista,False,True,True,2024,78.9,42.93,78.94,1.66,,,362960,Companhia Pernambucana de Saneamento,2022,124313,21095,16.969263069831797
+2610806,Pedra,False,False,True,2024,47.08,31.68,76.67,10.48,,,23605,Companhia Pernambucana de Saneamento,2022,7725,3514,45.48867313915858
+2610905,Pesqueira,False,False,True,2024,62.1,55.79,84.66,2.21,,,65408,Companhia Pernambucana de Saneamento,2022,22033,7442,33.776607815549404
+2611002,Petrolândia,False,False,True,2024,74.23,23.12,100.0,6.3,,,35991,Companhia Pernambucana de Saneamento,2022,10915,1507,13.80668804397618
+2611101,Petrolina,False,False,True,2024,82.99,27.34,91.58,2.55,,,414083,Companhia Pernambucana de Saneamento,2022,128380,6412,4.9945474372955285
+2611200,Poção,False,False,True,2024,52.09,48.78,80.93,0.0,,,10805,Companhia Pernambucana de Saneamento,2022,3844,3428,89.17793964620188
+2611309,Pombos,False,False,True,2024,69.62,28.35,100.0,13.21,,,26847,Companhia Pernambucana de Saneamento,2022,9861,2909,29.500050704796674
+2611408,Primavera,False,False,True,2024,41.07,58.81,65.72,0.0,,,14351,Companhia Pernambucana de Saneamento,2022,4490,1784,39.73273942093541
+2611507,Quipapá,False,False,True,2024,,15.72,,21.08,Não calculado (condições não atendidas),,17974,Companhia Pernambucana de Saneamento; Prefeitura Municipal de Quipapá,2022,6123,1591,25.98399477380369
+2611533,Quixaba,False,False,True,2024,52.15,21.85,100.0,1.31,,,6755,Companhia Pernambucana de Saneamento,2022,2277,1190,52.26174791392183
+2611606,Recife,False,True,True,2024,78.93,44.2,78.93,,,,1587707,Companhia Pernambucana de Saneamento,2022,547461,40488,7.395595302679095
+2611705,Riacho das Almas,False,False,True,2024,55.23,36.77,98.1,10.44,,,21411,Companhia Pernambucana de Saneamento,2022,7743,3739,48.28877695983469
+2611804,Ribeirão,False,False,True,2024,77.95,49.42,93.0,1.72,,,34255,Companhia Pernambucana de Saneamento,2022,11917,3161,26.525132164135268
+2611903,Rio Formoso,False,False,True,2024,47.93,38.96,66.03,0.3,,,20460,Companhia Pernambucana de Saneamento,2022,6438,2526,39.23578751164958
+2612000,Sairé,False,False,True,2024,65.82,9.51,100.0,13.92,,,11218,Companhia Pernambucana de Saneamento,2022,4118,1498,36.376881981544436
+2612109,Salgadinho,False,False,True,2024,38.42,86.11,100.0,3.99,,,5620,Companhia Pernambucana de Saneamento,2022,2051,1276,62.21355436372501
+2612208,Salgueiro,False,False,True,2024,85.78,34.4,100.0,27.22,,,65635,Companhia Pernambucana de Saneamento,2022,20397,2473,12.124332009609256
+2612307,Saloá,False,False,True,2024,37.9,17.74,64.64,0.05,,,14173,Companhia Pernambucana de Saneamento,2022,4791,2151,44.89668127739512
+2612406,Sanharó,False,False,True,2024,88.64,52.11,100.0,52.08,,,18933,Companhia Pernambucana de Saneamento,2022,6603,1644,24.897773739209452
+2612455,Santa Cruz,False,False,True,2024,38.95,10.34,100.0,1.35,,,14320,Companhia Pernambucana de Saneamento,2022,4366,2462,56.39028859367843
+2612471,Santa Cruz da Baixa Verde,False,False,True,2024,1.37,23.73,0.0,3.05,,,11933,Companhia Pernambucana de Saneamento,2022,3982,3817,95.85635359116021
+2612505,Santa Cruz do Capibaribe,False,False,True,2024,64.96,8.34,66.66,0.11,,,104277,Companhia Pernambucana de Saneamento,2022,34712,16810,48.42705692555889
+2612554,Santa Filomena,False,False,True,2024,36.67,9.04,100.0,0.0,,,12402,Companhia Pernambucana de Saneamento,2022,4091,2641,64.5563431923735
+2612604,Santa Maria da Boa Vista,False,False,True,2024,36.89,54.64,100.0,0.1,,,42682,Companhia Pernambucana de Saneamento,2022,12529,2008,16.026817782744033
+2612703,Santa Maria do Cambucá,False,False,True,2024,48.63,23.36,100.0,28.47,,,14533,Companhia Pernambucana de Saneamento,2022,4940,2973,60.18218623481781
+2612802,Santa Terezinha,False,False,True,2024,66.2,3.31,100.0,1.0,,,10513,Companhia Pernambucana de Saneamento,2022,3734,1082,28.97696839850027
+2612901,São Benedito do Sul,False,False,True,2024,44.19,7.06,71.33,0.14,,,13479,Companhia Pernambucana de Saneamento,2022,3851,950,24.66891716437289
+2613008,São Bento do Una,False,False,True,2024,52.35,35.53,84.4,3.35,,,51264,Companhia Pernambucana de Saneamento,2022,17189,8138,47.3442317761359
+2613107,São Caitano,False,False,True,2024,71.75,23.64,86.49,15.56,,,39117,Companhia Pernambucana de Saneamento,2022,13465,3631,26.966208689194207
+2613206,São João,False,False,True,2024,60.81,41.19,97.25,17.68,,,24772,Companhia Pernambucana de Saneamento,2022,7923,2912,36.75375489082418
+2613305,São Joaquim do Monte,False,False,True,2024,77.37,33.56,100.0,13.98,,,20440,Companhia Pernambucana de Saneamento,2022,7203,1673,23.226433430515062
+2613404,São José da Coroa Grande,False,False,True,2024,77.04,46.88,100.0,0.58,,,19468,Companhia Pernambucana de Saneamento,2022,6103,1635,26.790103227920696
+2613503,São José do Belmonte,False,False,True,2024,55.34,5.22,91.07,8.37,,,36752,Companhia Pernambucana de Saneamento,2022,11524,3952,34.29364803887539
+2613602,São José do Egito,False,False,True,2024,69.16,39.14,100.0,7.53,,,32491,Companhia Pernambucana de Saneamento,2022,11850,3333,28.126582278481013
+2613701,São Lourenço da Mata,False,True,True,2024,68.54,65.6,72.11,0.05,,,117759,Companhia Pernambucana de Saneamento,2022,39423,9307,23.608046064480124
+2613800,São Vicente Férrer,False,False,True,2024,43.36,41.98,56.05,8.43,,,17176,Companhia Pernambucana de Saneamento,2022,5669,2055,36.24977950255777
+2613909,Serra Talhada,False,False,True,2024,80.55,25.67,100.0,2.18,,,98143,Companhia Pernambucana de Saneamento,2022,32415,6607,20.382538948017892
+2614006,Serrita,False,False,True,2024,42.76,33.13,100.0,10.71,,,18759,Companhia Pernambucana de Saneamento,2022,5578,2185,39.17174614557189
+2614105,Sertânia,False,False,True,2024,58.53,54.18,88.7,18.11,,,34269,Companhia Pernambucana de Saneamento,2022,11767,5099,43.33305005523923
+2614204,Sirinhaém,False,False,True,2024,55.12,54.19,68.13,0.45,,,39233,Companhia Pernambucana de Saneamento,2022,11889,4957,41.69400285978636
+2614303,Moreilândia,False,False,True,2024,44.47,28.28,66.38,5.97,,,10849,Companhia Pernambucana de Saneamento,2022,3487,1587,45.51190134786349
+2614402,Solidão,False,False,True,2024,33.31,38.94,90.0,0.0,,,5403,Companhia Pernambucana de Saneamento,2022,1796,1161,64.64365256124722
+2614501,Surubim,False,False,True,2024,90.46,18.27,100.0,54.58,,,67515,Companhia Pernambucana de Saneamento,2022,22722,4308,18.959598626881437
+2614600,Tabira,False,False,True,2024,80.97,42.38,100.0,21.77,,,29093,Companhia Pernambucana de Saneamento,2022,9976,1904,19.08580593424218
+2614709,Tacaimbó,False,False,True,2024,62.46,46.72,100.0,13.37,,,14277,Companhia Pernambucana de Saneamento,2022,4827,2028,42.01367308887508
+2614808,Tacaratu,False,False,True,2024,61.12,53.57,100.0,25.42,,,24803,Companhia Pernambucana de Saneamento,2022,7343,2908,39.60234236688002
+2614857,Tamandaré,False,False,True,2024,79.85,47.79,100.0,0.0,,,24534,Companhia Pernambucana de Saneamento,2022,7632,2417,31.66928721174004
+2615003,Taquaritinga do Norte,False,False,True,2024,44.41,53.77,62.77,0.08,,,25497,Companhia Pernambucana de Saneamento,2022,8905,6682,75.03649635036497
+2615102,Terezinha,False,False,True,2024,50.82,26.02,100.0,1.14,,,6857,Companhia Pernambucana de Saneamento,2022,2153,1244,57.77984208081747
+2615201,Terra Nova,False,False,True,2024,77.58,39.08,100.0,29.79,,,9221,Companhia Pernambucana de Saneamento,2022,2839,546,19.23212398731948
+2615300,Timbaúba,False,False,True,2024,86.39,36.32,100.0,3.43,,,47575,Companhia Pernambucana de Saneamento,2022,16204,2486,15.341890891137991
+2615409,Toritama,False,False,True,2024,71.88,15.26,72.87,20.36,,,43636,Companhia Pernambucana de Saneamento,2022,14213,6277,44.16379370998382
+2615508,Tracunhaém,False,False,True,2024,64.67,8.53,77.2,3.04,,,14393,Companhia Pernambucana de Saneamento,2022,4665,946,20.278670953912112
+2615607,Trindade,False,False,True,2024,78.93,8.62,95.43,14.51,,,32086,Companhia Pernambucana de Saneamento,2022,9899,2770,27.982624507526012
+2615706,Triunfo,False,False,True,2024,50.71,19.24,85.22,1.93,,,15142,Companhia Pernambucana de Saneamento,2022,5276,2920,55.344958301743745
+2615805,Tupanatinga,False,False,True,2024,45.94,47.45,100.0,11.0,,,27009,Companhia Pernambucana de Saneamento,2022,7917,3483,43.99393709738537
+2615904,Tuparetama,False,False,True,2024,81.23,27.54,100.0,0.71,,,8252,Companhia Pernambucana de Saneamento,2022,2953,576,19.50558753809685
+2616001,Venturosa,False,False,True,2024,56.92,42.11,85.1,3.79,,,17609,Companhia Pernambucana de Saneamento,2022,5797,2918,50.336380886665516
+2616100,Verdejante,False,False,True,2024,73.2,54.1,100.0,61.62,,,9474,Companhia Pernambucana de Saneamento,2022,2958,780,26.36916835699797
+2616183,Vertente do Lério,False,False,True,2024,34.66,58.46,72.97,21.36,,,7782,Companhia Pernambucana de Saneamento,2022,2655,2213,83.35216572504709
+2616209,Vertentes,False,False,True,2024,60.76,16.78,72.2,26.99,,,22955,Companhia Pernambucana de Saneamento,2022,7860,4148,52.7735368956743
+2616308,Vicência,False,False,True,2024,57.42,52.64,85.57,17.24,,,27297,Companhia Pernambucana de Saneamento,2022,9077,1862,20.51338547978407
+2616407,Vitória de Santo Antão,False,False,True,2024,65.78,44.59,72.34,3.21,,,143799,Companhia Pernambucana de Saneamento,2022,48335,10437,21.59304851556843
+2616506,Xexéu,False,False,True,2024,86.06,10.63,95.0,0.0,,,11791,Serviço Autônomo de Água e Esgoto,2022,3951,418,10.579600101240192

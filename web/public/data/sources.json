@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-19",
+  "year": 2024,
+  "censusYear": 2022,
+  "sources": [
+    {
+      "name": "SINISA 2025 — referência 2024",
+      "file": "SINISA_Resultados_Ref2024.zip",
+      "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa/resultados-sinisa/SINISA_Resultados_Ref2024.zip",
+      "sha256": "777eb5f8dcd1483df76823a3bede1d77f40b177adac1c330c5a611b4c4ab6d74",
+      "collected": "2026-10-19"
+    },
+    {
+      "name": "IBGE — Cadastro de localidades",
+      "file": "municipios_ibge_pe.json",
+      "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/26/municipios",
+      "sha256": "99fdceed940bd98d818afe061ff220929c19f4e2c59d8211fcbe1012ef31af0b",
+      "collected": "2026-10-19"
+    },
+    {
+      "name": "IBGE — Malha municipal simplificada",
+      "file": "malha_pe.json",
+      "url": "https://servicodados.ibge.gov.br/api/v3/malhas/estados/26?formato=application%2Fvnd.geo%2Bjson&qualidade=intermediaria&intrarregiao=municipio",
+      "sha256": "148078d58bbc3cd164385492e519c02f12a7d57b898eb038742b01432b20d67f",
+      "collected": "2026-10-19"
+    },
+    {
+      "name": "Censo 2022 — SIDRA 6803",
+      "file": "censo_agua_pe_2022.json",
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6803/periodos/2022/variaveis/381?localidades=N6[N3[26]]&classificacao=1821[72129,72144,72145,72153]",
+      "sha256": "38c7482442b4e639170663427f395fe6b0d1606052129ba534ee5faf8ea066ef",
+      "collected": "2026-10-19"
+    },
+    {
+      "name": "Metadados SIDRA 6803",
+      "file": "sidra_6803_metadados.json",
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6803/metadados",
+      "sha256": "e37e66ed4edb80756b714e8cecf1f26350de9fb0b80891f755c700c88f4d70d2",
+      "collected": "2026-10-19"
+    }
+  ],
+  "sinisaFiles": [
+    "SINISA_Resultados_Ref2024/Água - Base Municipal/SINISA_AGUA_Indicadores_Base Municipal_2024_Retificação.xlsx",
+    "SINISA_Resultados_Ref2024/Água - Base Municipal/SINISA_AGUA_Informações_Gestão Técnica de Água_Base Municipal_2024_Retificação.xlsx"
+  ],
+  "sinisaMetadata": [
+    [
+      "MINISTÉRIO DAS CIDADES  /  SECRETARIA NACIONAL DE SANEAMENTO AMBIENTAL",
+      "SISTEMA NACIONAL DE INFORMAÇÕES EM SANEAMENTO BÁSICO - SINISA",
+      "Módulo Abastecimento de Água",
+      "Indicadores de Água",
+      "Ano de referência 2024",
+      "Data de publicação: 18/12/2025",
+      "Data de retificação: 25/05/2026"
+    ],
+    [
+      "MINISTÉRIO DAS CIDADES  /  SECRETARIA NACIONAL DE SANEAMENTO AMBIENTAL",
+      "SISTEMA NACIONAL DE INFORMAÇÕES EM SANEAMENTO BÁSICO - SINISA",
+      "Módulo Abastecimento de Água",
+      "Informações - Gestão Técnica de Água",
+      "Ano de referência 2024",
+      "Data de publicação: 18/12/2025",
+      "Data de retificação: 25/05/2026"
+    ]
+  ],
+  "note": "Sem imputação. Percentuais na escala 0–100. Medianas referem-se a municípios, não ao percentual estadual agregado. Malha simplificada obtida da API na data da coleta; não é mapa de tubulações nem de bairros."
+}

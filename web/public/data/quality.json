@@ -1,0 +1,22 @@
+{
+  "totalMunicipalities": 184,
+  "sinisaMunicipalities": 179,
+  "completePairs": 178,
+  "missingMunicipalities": [
+    "Gameleira",
+    "Iati",
+    "Inajá",
+    "Itambé",
+    "Jaqueira"
+  ],
+  "nonCalculated": [
+    "Quipapá"
+  ],
+  "rmrCount": 14,
+  "censusLocalities": 185,
+  "censusSumChecks": 185,
+  "mapLocalities": 185,
+  "formulasChecked": 359,
+  "formulasPassed": 359,
+  "duplicateCodes": 0
+}

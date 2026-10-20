@@ -1,0 +1,15 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {filteredRows,compare,colorFor,pct,readRoute,routeHash,csvFromRows,validateDataset} from '../src/model.js';
+const data=JSON.parse(fs.readFileSync(new URL('../public/data/dataset.json',import.meta.url)));
+const geo=JSON.parse(fs.readFileSync(new URL('../public/data/malha_pe.json',import.meta.url)));
+test('malha e indicadores correspondem',()=>assert.equal(validateDataset(data,geo),true));
+test('ausência é distinta de zero',()=>{assert.equal(pct(null),'Sem dados');assert.equal(pct(0),'0,0%');assert.notEqual(colorFor(null,'perdas'),colorFor(0,'perdas'));});
+test('filtro RMR e distrito separado',()=>{assert.equal(filteredRows(data.rows,'rmr').length,14);assert.equal(filteredRows(data.rows,'pe').length,184);assert.equal(filteredRows(data.rows,'noronha').length,1);});
+test('busca sem acento',()=>assert.equal(filteredRows(data.rows,'pe','sao lourenco')[0].name,'São Lourenço da Mata'));
+test('comparação em pontos percentuais e ausência',()=>{assert.equal(compare({atendimento:80},{atendimento:60},'atendimento'),20);assert.equal(compare({atendimento:null},{atendimento:60},'atendimento'),null);});
+test('link compartilhável preserva seleção',()=>{const r={page:'comparar',scope:'rmr',metric:'perdas',id:'2611606',a:'2609600',b:'2611606'};assert.deepEqual(readRoute(routeHash(r)),r);});
+test('URL inválida tem valores seguros',()=>{const r=readRoute('#nada?metric=invalid&scope=invalid');assert.equal(r.page,'inicio');assert.equal(r.metric,'atendimento');assert.equal(r.scope,'pe');});
+test('CSV preserva ausência, aspas e período',()=>{const csv=csvFromRows([{id:'123',name:'Nome "teste"',year:2024,atendimento:null,perdas:0,censusYear:2022}]);assert.ok(csv.includes('Nome ""teste""'));assert.ok(csv.includes('"2024";"";"0";"2022"'));});
+test('integração duplicada é rejeitada',()=>assert.throws(()=>validateDataset({rows:[data.rows[0],data.rows[0]]},geo),/duplicados/));
