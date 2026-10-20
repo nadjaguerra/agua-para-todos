@@ -85,10 +85,4 @@ Preact + Vite + Leaflet + Plotly.js. Dependências e versões exatas estão em `
 | `web/dist/` | Site compilado, pronto para o teste local |
 | `docs/` | Descoberta, escopo, metodologia, resultados, testes e extensão |
 
-## Publicação futura
 
-Não houve publicação externa. A entrega é local, para sua revisão. As instruções para GitHub Pages estão em `docs/publicacao.md` e há um workflow manual de exemplo. Não há backend nem credenciais no projeto.
-
-## Situação acadêmica
-
-A parte técnica foi implementada. Descoberta com usuários, validação externa e ação de extensão não foram realizadas e não são apresentadas como executadas. Os instrumentos estão preparados para uso posterior. O projeto é independente de concessionárias.
